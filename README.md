@@ -1,6 +1,3 @@
-## 🇧🇷 Português (PT-BR)
-
-
 
 # 🌊 Surf Forecast Pro
 
