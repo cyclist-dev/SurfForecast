@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <!-- Header -->
+        
         <header class="header">
             <div class="logo">
                 <h1>🌊 Surf Forecast Pro</h1>
@@ -16,7 +16,7 @@
             </div>
         </header>
 
-        <!-- Main Content -->
+        
         <main class="main-content">
             <div class="search-section">
                 <h2>Análise de Condições de Surf</h2>
@@ -32,7 +32,7 @@
                 </form>
             </div>
 
-            <!-- Info Cards -->
+            
             <div class="info-grid">
                 <div class="info-card">
                     <div class="card-icon">📊</div>
